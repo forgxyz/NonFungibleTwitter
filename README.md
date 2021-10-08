@@ -12,3 +12,8 @@ separate account list with:
 - screen_name
 - created_at
 - drop date
+
+
+
+https://docs.python-requests.org/projects/requests-html/en/latest/#javascript-support
+https://theautomatic.net/2019/01/19/scraping-data-from-javascript-webpage-python/
